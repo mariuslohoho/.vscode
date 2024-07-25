@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "akamud.vscode-theme-onedark",
+        "ms-vscode.live-server",
+        "pkief.material-icon-theme",
+        "esbenp.prettier-vscode",
+        "gruntfuggly.todo-tree",
+        "britesnow.vscode-toggle-quotes",
+        "narasimapandiyan.jetbrainsmono",
+        "Gruntfuggly.todo-tree",
+        "BriteSnow.vscode-toggle-quotes",
+        "pmneo.tsimporter"
+    ]
+}
